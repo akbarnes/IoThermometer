@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name nodemcu)(type KiCad)(uri "$(KIPRJMOD)\\kicad-lib\\nodemcu.pretty")(options "")(descr ""))
+  (lib (name Sensors)(type KiCad)(uri "$(KIPRJMOD)\\kicad-lib\\Sensors.pretty")(options "")(descr ""))
+  (lib (name OzarkED)(type KiCad)(uri "$(KIPRJMOD)\\OzarkED.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name IoThermometer-rescue)(type Legacy)(uri ${KIPRJMOD}/IoThermometer-rescue.lib)(options "")(descr ""))
+  (lib (name nodemcu)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/nodemcu.lib)(options "")(descr ""))
+  (lib (name sensors)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/sensors.lib)(options "")(descr ""))
+  (lib (name misc)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/misc.lib)(options "")(descr ""))
+  (lib (name A6_GSM)(type Legacy)(uri ${KIPRJMOD}/kicad-lib/A6_GSM.lib)(options "")(descr ""))
+)

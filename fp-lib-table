@@ -1,5 +1,9 @@
 (fp_lib_table
-  (lib (name nodemcu)(type KiCad)(uri "$(KIPRJMOD)\\kicad-lib\\nodemcu.pretty")(options "")(descr ""))
-  (lib (name Sensors)(type KiCad)(uri "$(KIPRJMOD)\\kicad-lib\\Sensors.pretty")(options "")(descr ""))
-  (lib (name OzarkED)(type KiCad)(uri "$(KIPRJMOD)\\OzarkED.pretty")(options "")(descr ""))
+  (lib (name nodemcu)(type KiCad)(uri "$(KIPRJMOD)/kicad-lib/nodemcu.pretty")(options "")(descr ""))
+  (lib (name Sensors)(type KiCad)(uri "$(KIPRJMOD)/kicad-lib/Sensors.pretty")(options "")(descr ""))
+  (lib (name OzarkED)(type KiCad)(uri "$(KIPRJMOD)/OzarkED.pretty")(options "")(descr ""))
+  (lib (name A6)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/A6.pretty)(options "")(descr ""))
+  (lib (name Misc)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/Misc.pretty)(options "")(descr ""))
+  (lib (name Stochastic)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/Stochastic.pretty)(options "")(descr ""))
+  (lib (name TinyBreakout)(type KiCad)(uri ${KIPRJMOD}/kicad-lib/TinyBreakout.pretty)(options "")(descr ""))
 )

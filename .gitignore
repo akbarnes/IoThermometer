@@ -1,4 +1,5 @@
 ##### Nested Projects #####
+kicad-lib/
 
 ##### KiCad Files #####
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
@@ -7,12 +8,13 @@
 *.000
 *.bak
 *.bck
+*.sch-bak
 *.kicad_pcb-bak
 *~
 _autosave-*
 *.tmp# Netlist files (exported from Eeschema)
 *.net
-*-cache.lib
+fp-info-cache
 
 # Autorouter files (exported from Pcbnew)
 *.dsn
@@ -70,9 +72,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-IoThermometer-cache.liob
+IoThermometer-cache.lib
 
 # Images
+*.svg
 *.pdf
 *.png
-*.svg
+

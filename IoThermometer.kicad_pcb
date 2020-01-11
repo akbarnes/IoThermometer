@@ -18,7 +18,7 @@
   )
 
   (layers
-    (0 F.Cu signal)
+    (0 F.Cu signal hide)
     (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
@@ -41,7 +41,7 @@
   )
 
   (setup
-    (last_trace_width 0.508)
+    (last_trace_width 0.254)
     (user_trace_width 0.254)
     (user_trace_width 0.508)
     (user_trace_width 1.27)
@@ -325,7 +325,7 @@
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /58BAFB86)
-    (fp_text reference R3 (at 3.81 -2.37 180) (layer F.SilkS)
+    (fp_text reference R3 (at 3.81 2.54 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value 4.7k (at 7.62 2.54 180) (layer F.Fab)
@@ -550,7 +550,7 @@
   (gr_text READ (at 116.015 94.87) (layer F.SilkS) (tstamp 589F89B7)
     (effects (font (size 1.016 1.016) (thickness 0.1905)))
   )
-  (gr_text "Ozark Electric Design, LLC\nIoT Thermometer V0.1\nArt Barnes, 2016\n" (at 182.69 107.57 90) (layer F.SilkS) (tstamp 589F8A31)
+  (gr_text "Ozark Electric Design, LLC\nIoT Thermometer V0.2a\nArt Barnes, 2019\n" (at 182.69 107.57 90) (layer F.SilkS) (tstamp 589F8A31)
     (effects (font (size 1.016 1.016) (thickness 0.1905)))
   )
   (gr_text POWER (at 115.38 120.27) (layer F.SilkS)

@@ -6,9 +6,9 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "IoThermometer"
-Date "2017-03-04"
-Rev "1.1"
-Comp "Ozark Electric Design, LLC"
+Date "2020-04-14"
+Rev "0.2b"
+Comp ""
 Comment1 "Designer: Art Barnes"
 Comment2 ""
 Comment3 ""
